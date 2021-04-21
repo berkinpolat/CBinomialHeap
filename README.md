@@ -2,7 +2,7 @@
 ###### Using binomial heap structure to implement a priority queue for the task of ranking documents.
 
 ##### Explanation
-In WWW, when you enter a “keyword” search engines try to rank the documents according to the similarities between your keyword and the documents lying on WWW. The most famous search engines (Google, Bing, Yahoo etc.) run various machine learning and deep learning algorithms. On the other hand, the common logic behind them is to rank the documents according to relevance.
+In web, when you enter a “keyword” search engines try to rank the documents according to the similarities between your keyword and the documents lying on web. The most famous search engines (Google, Bing, Yahoo etc.) run various machine learning and deep learning algorithms. On the other hand, the common logic behind them is to rank the documents according to relevance.
 
 This project uses binomial heaps to implement a priority queue for the task of ranking documents. In other words, it ranks documents according to given keyword with binomial heaps.
 
